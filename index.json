@@ -78,7 +78,7 @@
     },
     {
         "appName": "YouTube",
-        "appId": "com.",
+        "appId": "com.youtube",
         "version": "1.0.0",
         "description": "Display YouTube statistics, including view counts and thumbnails, on the link tile.",
         "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/youtube.svg",
