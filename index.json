@@ -1,0 +1,90 @@
+[
+    {
+        "appName": "Github",
+        "appId": "com.github",
+        "version": "1.0.0",
+        "description": "Monitor your Github account statistics and display key details on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/github.svg",
+        "repoLink": "https://github.com",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/main/apps/com.github.zip"
+    },
+    {
+        "appName": "Heimdall",
+        "appId": "com.heimdall",
+        "version": "1.0.0",
+        "description": "Display Heimdall dashboard statistics and key insights directly on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/heimdall.svg",
+        "repoLink": "https://github.com/linuxserver/Heimdall",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.heimdall.zip"
+    },
+    {
+        "appName": "HTML Code",
+        "appId": "com.html",
+        "version": "1.0.0",
+        "description": "Use HTML code to customize and display static content on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/chromium.svg",
+        "repoLink": "https://github.com/Sanjeet990/Astroluma",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.html.zip"
+    },
+    {
+        "appName": "Portainer",
+        "appId": "com.portainer",
+        "version": "1.0.0",
+        "description": "Show statistics from your Portainer dashboard directly on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer.svg",
+        "repoLink": "https://github.com/portainer/portainer",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.portainer.zip"
+    },
+    {
+        "appName": "ProxMox VE",
+        "appId": "com.proxmox",
+        "version": "1.0.0",
+        "description": "Display Proxmox server statistics and basic metrics on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox.svg",
+        "repoLink": "https://www.proxmox.com/en/",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.proxmox.zip"
+    },
+    {
+        "appName": "NGINX Proxy Manager",
+        "appId": "com.proxyman",
+        "version": "1.0.0",
+        "description": "Monitor basic statistics from your NGINX Proxy Manager and display them on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nginx-proxy-manager.svg",
+        "repoLink": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.proxyman.zip"
+    },
+    {
+        "appName": "TrueNAS Scale",
+        "appId": "com.truenas.scale",
+        "version": "1.0.0",
+        "description": "Show statistics and key metrics from your TrueNAS server on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/truenas-scale.svg",
+        "repoLink": "https://www.truenas.com/",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.truenas.scale.zip"
+    },
+    {
+        "appName": "YouTube",
+        "appId": "com.",
+        "version": "1.0.0",
+        "description": "Display YouTube statistics, including view counts and thumbnails, on the link tile.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/youtube.svg",
+        "repoLink": "https://youtube.com",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.youtube.zip"
+    }
+]
