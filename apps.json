@@ -86,5 +86,38 @@
         "licenseName": "GPL-3.0",
         "lastModified": "1736754530",
         "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.youtube.zip"
+    },
+    {
+        "appName": "Sonarr",
+        "appId": "com.sonarr",
+        "version": "1.0.0",
+        "description": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg",
+        "repoLink": "https://sonarr.tv",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.sonarr.zip"
+    },
+    {
+        "appName": "Speedtest Tracker",
+        "appId": "com.speedtest.tracker",
+        "version": "1.0.0",
+        "description": "This program runs a speedtest check every hour and graphs the results. The back-end is written in Laravel and the front-end uses React. It uses the Ookla's speedtest cli package to get the data and uses Chart.js to plot the results.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/speedtest-tracker.png",
+        "repoLink": "https://github.com/henrywhitaker3/Speedtest-Tracker",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.speedtest.tracker.zip"
+    },
+    {
+        "appName": "Filebrowser",
+        "appId": "com.filebrowser",
+        "version": "1.0.0",
+        "description": "Filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/file-browser.svg",
+        "repoLink": "https://github.com/filebrowser/filebrowser",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.filebrowser.zip"
     }
 ]
