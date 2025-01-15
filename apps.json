@@ -152,5 +152,38 @@
         "licenseName": "GPL-3.0",
         "lastModified": "1736754530",
         "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.uptimekuma.zip"
+    },
+    {
+        "appName": "Bazarr",
+        "appId": "com.bazarr",
+        "version": "1.0.0",
+        "description": "Bazarr is a companion application to Sonarr and Radarr. It manage and download subtitles based on your requirements. You defined your preferences by TV show or movies and Bazarr take care of everything for you.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/bazarr.png",
+        "repoLink": "https://github.com/morpheus65535/bazarr",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.bazarr.zip"
+    },
+    {
+        "appName": "FreshRSS",
+        "appId": "com.freshrss",
+        "version": "1.0.0",
+        "description": "FreshRSS is a self-hosted RSS feed aggregator. It is lightweight, easy to work with, powerful and customizable.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/freshrss.svg",
+        "repoLink": "https://freshrss.org/",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.freshrss.zip"
+    },
+    {
+        "appName": "Linkace",
+        "appId": "com.linkace",
+        "version": "1.0.0",
+        "description": "LinkAce is a self-hosted archive to collect links of your favorite websites. Save articles to read them later, tools to use them in your next project, or historic content to archive it for the long term. LinkAce comes with a lot of features while keeping a clean and minimal interface.",
+        "appIcon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linkace.svg",
+        "repoLink": "https://www.linkace.org/",
+        "licenseName": "GPL-3.0",
+        "lastModified": "1736754530",
+        "downloadLink": "https://github.com/Sanjeet990/AstrolumaApps/raw/refs/heads/mail/apps/com.linkace.zip"
     }
 ]
